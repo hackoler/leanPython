@@ -1,0 +1,2 @@
+# leanPython
+Python学习
